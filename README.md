@@ -2,8 +2,11 @@
 Most Tedious | Most Rewarding
 
 ## Dynamic Programming
-|  🤓  | Title | Time | Space | Video|
-| --- | ----- | ---- | ----- | ---- |
-|Easy|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/#/solutions)| _O(N)_| _O(1)_  | Easy| |
-|Easy|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/#/description)| _O(N)_| _O(N)_  | Easy|[:tv:](https://youtu.be/4tfhDdgu76E) |
-|Easy|[House Robber](https://leetcode.com/problems/house-robber/#/description)| _O(N)_| _O(N)_  | Easy|[:tv:](https://youtu.be/QSjPkgyxCaQ) |
+|  🤓  | Title | Solution | Time | Space |
+| --- | ----- | -------- | ---- | ----- |
+| Easy | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/#/solutions) | [climbing_stairs.py](./scripts/climbing_stairs.py) | _O(N)_ | _O(1)_ |
+
+## Linked List
+|  🤓  | Title | Solution | Time | Space |
+| --- | ----- | -------- | ---- | ----- |
+| Easy | [Linked List](https://leetcode.com/problems/reverse-linked-list/) | [linked_list.py](./scripts/linked_list.py) | _O(N)_ | _O(1)_ |
