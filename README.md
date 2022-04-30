@@ -5,6 +5,7 @@ Most Tedious | Most Rewarding
 |  🤓  | Title | Solution | Time | Space |
 | --- | ----- | -------- | ---- | ----- |
 | Easy | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/#/solutions) | [climbing_stairs.py](./scripts/climbing_stairs.py) | _O(N)_ | _O(1)_ |
+| Easy | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/#/solutions) | [maximum_subarray.py](./scripts/maximum_subarray.py) | _O(N)_ | _O(1)_ |
 
 ## Linked List
 |  🤓  | Title | Solution | Time | Space |
