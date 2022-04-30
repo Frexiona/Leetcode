@@ -9,4 +9,4 @@ Most Tedious | Most Rewarding
 ## Linked List
 |  🤓  | Title | Solution | Time | Space |
 | --- | ----- | -------- | ---- | ----- |
-| Easy | [Linked List](https://leetcode.com/problems/reverse-linked-list/) | [linked_list.py](./scripts/linked_list.py) | _O(N)_ | _O(1)_ |
+| Easy | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [reverse_linked_list.py](./scripts/reverse_linked_list.py) | _O(N)_ | _O(1)_ |
