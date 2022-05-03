@@ -10,6 +10,7 @@ Most Tedious | Most Rewarding
 | 🟡 | [House Robber](https://leetcode.com/problems/house-robber/#/solutions) | [house_robber.py](./scripts/house_robber.py) | _O(N)_ | _O(N)_ |
 | 🟡 | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/#/solutions) | [minimum_path_sum.py](./scripts/minimum_path_sum.py) | _O(N^2)_ | _O(M*N)_ |
 | 🟡 | [Unique Paths](https://leetcode.com/problems/unique-paths/#/solutions) | [unique_paths.py](./scripts/unique_paths.py) | _O(N^2)_ | _O(M*N)_ |
+| 🟡 | [Jump Game](https://leetcode.com/problems/jump-game/#/solutions) | [jump_game.py](./scripts/jump_game.py) | _O(N^2)_ | _O(1)_ |
 
 ## Linked List
 |  Difficulty  | Title | Solution | Time | Space |
