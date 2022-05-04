@@ -12,8 +12,14 @@ Most Tedious | Most Rewarding
 | 🟡 | [Unique Paths](https://leetcode.com/problems/unique-paths/#/solutions) | [unique_paths.py](./scripts/unique_paths.py) | _O(N^2)_ | _O(M*N)_ |
 | 🟡 | [Jump Game](https://leetcode.com/problems/jump-game/#/solutions) | [jump_game.py](./scripts/jump_game.py) | _O(N)_ | _O(1)_ |
 | 🟡 | [Jump Game II](https://leetcode.com/problems/jump-game-ii/#/solutions) | [jump_game_ii.py](./scripts/jump_game_ii.py) | _O(N)_ | _O(1)_ |
+| 🟡 | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/#/solutions) | [longest_increasing_subsequence.py](./scripts/longest_increasing_subsequence.py) | _O(N^2)_ | _O(1)_ |
 
 ## Linked List
 |  Difficulty  | Title | Solution | Time | Space |
 | --- | ----- | -------- | ---- | ----- |
-| 🟢 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [reverse_linked_list.py](./scripts/reverse_linked_list.py) | _O(N)_ | _O(1)_ |
+| 🟢 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/#/solutions) | [reverse_linked_list.py](./scripts/reverse_linked_list.py) | _O(N)_ | _O(1)_ |
+
+## Sliding Window
+|  Difficulty  | Title | Solution | Time | Space |
+| --- | ----- | -------- | ---- | ----- |
+| 🟡 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/#/solutions) | [longest_substring_without_repeating_characters.py](./scripts/longest_substring_without_repeating_characters.py) | _O(N)_ | _O(1)_ |
