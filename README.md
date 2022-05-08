@@ -1,6 +1,11 @@
 # Leetcode
 Most Tedious | Most Rewarding
 
+## Tree
+|  Difficulty  | Title | Solution | Time | Space |
+| --- | ----- | -------- | ---- | ----- |
+| 🟢 | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/#/solutions) | [balanced_binary_tree.py](./scripts/balanced_binary_tree.py) | _O(N)_ | _O(h)_ |
+
 ## Dynamic Programming
 #### Key Concept: convert problem to sub-problem
 |  Difficulty  | Title | Solution | Time | Space |
