@@ -6,6 +6,7 @@ Most Tedious | Most Rewarding
 | --- | ----- | -------- | ---- | ----- |
 | 🟢 | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/#/solutions) | [balanced_binary_tree.py](./scripts/balanced_binary_tree.py) | _O(N)_ | _O(h)_ |
 | 🟢 | [Path Sum](https://leetcode.com/problems/path-sum/#/solutions) | [path_sum.py](./scripts/path_sum.py) | _O(N)_ | _O(h)_ |
+| 🟢 | [Same Tree](https://leetcode.com/problems/same-tree/#/solutions) | [same_tree.py](./scripts/same_tree.py) | _O(N)_ | _O(1)_ |
 | 🟡 | [Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/#/solutions) | [binary_tree_level_order_traversal_ii.py](./scripts/binary_tree_level_order_traversal_ii.py) | _O(N)_ | _O(h)_ |
 
 ## Dynamic Programming
